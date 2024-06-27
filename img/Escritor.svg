@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 166" width="161" height="166">
+	<title>Escritor-svg</title>
+	<defs>
+		<image  width="161" height="166" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAACmAQMAAACImn1NAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAACNJREFUeJztyDEBAAAMAqDZv/QCaAQ4yS2x1lprrbXWWmvLA7WuAKe2f1GIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Camada 1" href="#img1" x="0" y="0"/>
+</svg>

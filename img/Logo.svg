@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>Logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 46px;fill: #403261;font-weight: 400;font-family: "DelaGothicOne-Regular", "Dela Gothic One" } 
+	</style>
+	<g id="e">
+		<text id="M" style="transform: matrix(.779,0,0,.779,.221,33.395)" >
+			<tspan x="0" y="0" class="t0">M
+</tspan>
+		</text>
+		<text id="
+" style="transform: matrix(1,0,0,1,3,31.9)" >
+		</text>
+	</g>
+</svg>
